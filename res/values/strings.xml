@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hi world</string>
+    <string name="hello_world">Hi World</string>
+    <string name="exit">Exit</string>
+   <!--  <string name="BodyText1">This is an example text</string>
+    <string name="BodyText2">This App was made just to know how Google Play works :D</string>
+     -->
+    <string-array name="zodiac_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+</resources>
